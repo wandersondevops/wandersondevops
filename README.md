@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning a lot of technologies.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 Reach my here
+- 📫 Reach me here
 
 <!---
 wandersondevops/wandersondevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
