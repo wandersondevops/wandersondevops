@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wandersondevops
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning a lot of technologies.
+- 👀 I’m interested in Artificial Intelligence
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me here
 
